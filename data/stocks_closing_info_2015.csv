@@ -1,4 +1,4 @@
-symbol,Period Ending,Net Income,Profit Margin,Quick Ratio,Total Assets,Total Liabilities,Earnings Per Share,Estimated Shares Outstanding,close
+Ticker Symbol,Period Ending,Net Income,Profit Margin,Quick Ratio,Total Assets,Total Liabilities,Earnings Per Share,Estimated Shares Outstanding,Closing Price
 AAL,2015-12-31,7610000000.0,19.0,67.0,48415000000.0,42780000000.0,11.39,668129938.543,42.799999
 ABBV,2015-12-31,5144000000.0,23.0,134.0,53050000000.0,49105000000.0,3.15,1633015873.02,59.799999
 ABT,2015-12-31,4423000000.0,22.0,126.0,41247000000.0,20036000000.0,2.94,1504421768.71,45.27
