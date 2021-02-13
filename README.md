@@ -8,4 +8,5 @@ Project Description/Outline: We are a stock advisory company researching the mar
 
 Data:
   Kggle- fundamentals.csv + prices.csv
+  
   API- Alpha Vantage
