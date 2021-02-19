@@ -16,7 +16,7 @@ We first pulled that Final Closing Ticker for the end of 2015 (12-31-2015) all s
 
 **Cleaning Our Dataset**
 
-The project was broken down over 5 Notebooks to reach our conclusion and results.
+The project is broken down over 5 Notebooks to reach our conclusion and results.
 	-Cleaning/Merging of Data: pulled from our data folder (.csv)
 	-Picking Stocks: calculated by our weighted ranking system
 	-Investment Distribution: calculated from the recommended stock     values by strength.	
@@ -45,7 +45,7 @@ Based on our research, we created a priority ranking based on our _6 selected cr
 
 **Top Stock Price Growth/Conclusion**
 
-- Yahoo stopped trading in 2018
-- The stocks  were strong on the short term growth but took a slide as time went on.
-- Despite selecting core criterias for selection of these stocks, there was more to consider to select the next Value stock investment. 
+- Yahoo stopped trading in 2017 when was bought by Verizon.
+- The stocks were strong on the short term growth but took a slide as time went on. Overall, a 20% growth in 5 years does not reflect a strong protfolio. 
+- Despite selecting core criterias for selection of these stocks, there was more to consider to select the next value stock investment such as intuision and other non- statstical parameters. 
 
